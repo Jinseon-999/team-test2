@@ -17,8 +17,9 @@ Dota 2
 디지몬마스터즈
 포켓몬
 철권
+PlayerUnkwonsBattleGround
 
 
 
-추천 : 크레이지아케이드
-이유 : 난이도 쉬움, 2p 가능
+추천 : Left 4 Dead 2
+이유 : 빠른 템포 , 모드 확장성 용이
