@@ -9,6 +9,7 @@
 로스트아크
 스타크래프트
 Left 4 Dead 2
+이유 : 빠른 템포 , 모드 확장성
 Project Zomboid
 Grand Theft Auto V
 Call of Duty
